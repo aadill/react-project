@@ -1,0 +1,44 @@
+
+.bg{
+    background-color: #cabcbc !important;
+}
+.background{
+    background-color: rgb(194, 194, 194) !important;
+    color:rgb(0, 0, 0);
+}
+.fab{
+    color: black !important;
+}
+.styles{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.footer-subscription{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 24px;
+    padding: 24px;
+    color: rgb(31, 31, 31);
+}
+
+.sub_heading{
+    margin-bottom: 24px;
+    font-size:24px;
+}
+
+.footer-input{
+    padding: 8px 20px;
+    border-radius: 2px;
+    margin-right: 10px;
+    outline:none;
+    border:none;
+    font-size:18px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(95, 94, 94);
+}
+
+.footer-copyright{
+    background-color:#d4cdcd;
+}
